@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj0022&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj0022" /> </p>
 
-- 🌱 I’m currently learning **React/NextJs, ML, GenAI, DSA**
+- 🌱 I’m currently learning **NextJs, GenAI, DSA**
 
 - 📫 How to reach me **neerajnarwade22@gmail.com**
 
