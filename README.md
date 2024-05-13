@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **NextJs, GenAI, DSA**
 
+- 💻leetcode : https://leetcode.com/u/loveautobots/
+
 - 📫 How to reach me **neerajnarwade22@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1xfzKUCUbFZypisNlk4R7yCPupKbQ-Qt6?usp=sharing](https://drive.google.com/drive/folders/1xfzKUCUbFZypisNlk4R7yCPupKbQ-Qt6?usp=sharing)
