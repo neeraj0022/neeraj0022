@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj Narwade</h1>
-<h3 align="center">A passionate MERN Stack developer and ML Enthusiast</h3>
+<h3 align="center">A passionate MERN Stack developer and ML-LLMOps Enthusiast</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj0022&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj0022" /> </p>
