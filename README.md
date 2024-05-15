@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj0022&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj0022" /> </p>
 
-- 🌱 I’m currently learning **NextJs, GenAI, DSA**
+- 🌱 I’m currently learning **NextJs, GenAI-LLMOps, DSA**
 
 - 💻leetcode : https://leetcode.com/u/loveautobots/
 
